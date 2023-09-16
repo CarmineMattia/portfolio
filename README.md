@@ -17,8 +17,8 @@ This portfolio showcases my expertise in:
 
 ## Installation & Setup 🛠️
 
-1. Clone the repository: `git clone `
-2. Navigate to the directory: `cd `
+1. Clone the repository: `git clone https://github.com/CarmineMattia/portfolio.git `
+2. Navigate to the directory: `cd myPortf `
 3. Install dependencies: `npm install`
 4. Start the local server: `npm start`
 
