@@ -1,6 +1,6 @@
 # Mattia's Portfolio 🚀🇮🇹
 
-Welcome to my digital space! Dive in to explore my journey from Italy's vibrant streets to the realms of web development.
+Welcome to my digital space! Dive in to explore my journey from Italy's vibrant streets to the realms of web development. [Click here to see live!](https://carminemattia.netlify.app/)
 
 ## Overview 🌟
 
@@ -17,8 +17,8 @@ This portfolio showcases my expertise in:
 
 ## Installation & Setup 🛠️
 
-1. Clone the repository: `git clone https://github.com/CarmineMattia/portfolio.git `
-2. Navigate to the directory: `cd myPortf `
+1. Clone the repository: `git clone https://github.com/CarmineMattia/portfolio.git`
+2. Navigate to the directory: `cd myPortf`
 3. Install dependencies: `npm install`
 4. Start the local server: `npm start`
 
